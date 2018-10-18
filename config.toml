@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Data Science Residency"
+theme = "story"
+
+[[menu.main]]
+    name = "About Us"
+    weight = 10
+    url = "/"
+[[menu.main]]
+    name = "Newsletters"
+    weight = 20
+    url = "/newsletters/"
+
+[params]
+    classes = ["feature-nohdr"]
+    author = "Data Science Residency"
