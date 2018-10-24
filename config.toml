@@ -1,4 +1,4 @@
-baseURL = "https://cocky-euclid-466089.netlify.com/"
+baseURL = "http://datascienceresidency.com/"
 languageCode = "en-us"
 title = "Data Science Residency"
 theme = "story"
