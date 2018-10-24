@@ -1,12 +1,18 @@
 body {
   background-color: #0abab5 !important;
 }
+.nested-links a {
+  color: #0abab5 !important;
+}
 div#hdr {
   color: white;
 }
 main {
   background-color: white;
   padding: 2em;
+}
+main p, .text-justify {
+  text-align: justify;
 }
 footer {
   text-align: center;
@@ -21,6 +27,13 @@ img.social-media.button {
   width: 24px;
   height: 24px;
   margin: 0.5em;
+}
+.site-logo {
+  width: 300px;
+  height: 300px;
+}
+#hdr > h1 {
+  padding: 1em;
 }
 
 h1,

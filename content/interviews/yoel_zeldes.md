@@ -24,3 +24,7 @@ Today it’s really easy to get the knowledge – there are plenty of free onlin
 Q: what are your career aspirations? (where do you want to be in 5 years?)
 
 I really enjoy ML. However, without having a real problem to solve, this tool belt is useless. This is why I want to get even more experience in applied ML, where you have both the opportunity to advance state of the art, and the opportunity to have a real impact on people’s lives via valuable products you can create.
+
+<center>
+  <img src="/img/newsletters/2018_oct/yoel_zeldes.jpeg" style="width: 300px; height: 300px"/>
+</center>

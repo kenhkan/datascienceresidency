@@ -61,7 +61,7 @@
 			<div class="{{ cond $hdr "bg-black-30 bb bt" "" }}">
 				<nav class="hide-print sans-serif {{ cond $hdr "" "bg-black" }} border-box pa3 ph5-l">
 					<a href="{{ .Site.BaseURL }}" title="Home">
-						<img src="{{ "img/logo.png" | absURL }}" class="br-100" alt="{{ .Site.Title }}" />
+						<img src="{{ "img/logo.png" | absURL }}" class="site-logo" alt="{{ .Site.Title }}" />
 					</a>
 					<div class="fr h2 pv2 tr">
 						{{- range .Site.Menus.main }}
@@ -73,32 +73,12 @@
 						<a class="link f5 ml2 dim near-white fas fa-rss-square" href="{{ "index.xml" | absURL }}" title="RSS Feed"></a>
 					</div>
 				</nav>
+        {{- $hdrtitle := cond (or (in .Site.Params.classes "feature-nohdrtitle") (in .Params.classes "feature-nohdrtitle")) false true -}}
+        {{ if $hdrtitle }}
 				<div id="hdr" class="tc-l {{ cond $hdr "pv4-ns pv5-l" "" }} pv2 ph3 ph4-ns">
 					<h1 class="{{ cond $hdr "near-white mt1-ns" "" }} f2 fw3 mb0 mt0 lh-title">{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}</h1>
-					<h2 class="{{ cond $hdr "near-white mt3-l mb4-l" "" }} fw1 f6 f3-l measure-wide-l center lh-copy mt2 mb3">
-						<!-- You can put a subtitle here in _index.md parameters, or it'll get
-						filled in with date and categories if it's a post -->
-						{{ if .IsPage }}
-							{{ if eq .Section "talks" }}
-								Presented
-								<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-									{{- .Date.Format "January 2, 2006" -}}
-								</time>
-								at <a class="no-underline category {{ cond $hdr "near-white dim" "black hover-gray" }}" href="{{ .Params.site }}">{{ .Params.event }}</a>
-							{{ else }}
-								Published
-								<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-									{{- .Date.Format "Jan 2, 2006" -}}
-								</time>
-								<span class="display-print">by {{ .Params.author | default .Site.Params.author }}</span>
-								{{ range $idx, $cat := .Params.categories }}{{ if gt $idx 0 }}, {{ end }}{{ if eq $idx 0 }} in {{ end }}<a href="{{ "categories/" | absURL }}/{{ . | urlize }}" class="no-underline category {{ cond $hdr "near-white dim" "black hover-gray" }}">{{ . | title }}</a>{{ end }}
-								<span class="display-print">at {{ .Permalink }}</span>
-							{{ end }}
-						{{ else }}
-							{{ with .Params.subtitle }}{{ . | markdownify }}{{ end }}
-						{{ end }}
-					</h2>
 				</div>
+        {{ end }}
 
 				<!-- if there's a "credits" parameter in front matter there'll be a camera icon here -->
 				{{ if $hdr }}
