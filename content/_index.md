@@ -6,7 +6,7 @@ classes: ["feature-nohdrtitle"]
 
 Welcome to Data Science Residency, where your journey to break into data data science begins! We are here to accompany you in your journey, and make your journey fun and fast by connecting you to mentors and peers who are pursuing a similar path. Data scientists have become a critical component of businesses today and will soon be the backbone of almost every major corporation. However, there are not enough skilled data scientists to meet the growing demand.
 
-# Why joining Data Science Residency?
+# Why join Data Science Residency?
 
 Our bi-weekly newsletter is short and the best way to spend 30 minutes to learn or review a new topic in data science and get inspired by the best in the field. By joining us, you can stay up to date with our upcoming programs and workshops that are specifically designed for onboarding data scientists. And above all, there is no spam. We will only send you a bi-weekly newsletter, that will contain our upcoming events.
 
