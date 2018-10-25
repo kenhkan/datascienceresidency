@@ -25,6 +25,10 @@ Q: what are your career aspirations? (where do you want to be in 5 years?)
 
 I really enjoy ML. However, without having a real problem to solve, this tool belt is useless. This is why I want to get even more experience in applied ML, where you have both the opportunity to advance state of the art, and the opportunity to have a real impact on people’s lives via valuable products you can create.
 
-<center>
+## Author's bio
+
+<div style="text-align: center; float: right; margin: 1em;">
   <img src="/img/newsletters/2018_oct/yoel_zeldes.jpeg" style="width: 300px; height: 300px"/>
-</center>
+</div>
+
+[Yoel Zeldes](https://medium.com/@yoelzeldes) is an Algorithms Engineer at Taboola. Yoel is a a Machine Learning enthusiast, especially enjoying the insights of Deep Learning. Yoel started his journey in tech as a pure software engineer, and eventually moved into the position of machine learning engineer. Yoel has worked on projects related to recommender systems, cyber, computer vision, web, mobile and distributed computing. A couple of years ago, he started his own blog - http://anotherdatum.com/. He started this blog as a side project, and over time discovered his joy of writing about topics he is passionate about. The writing process also gives him the opportunity to understand the topic more deeply. Yoel believes that every data scientist should try writing their own blog - maybe they’ll also realize how fun and rewarding it can be!
