@@ -4,7 +4,18 @@ date: 2018-10-17T12:44:48-04:00
 classes: ["feature-nohdrtitle"]
 ---
 
-Welcome to Data Science Residency, where your journey to break into data data science begins! We are here to accompany you in your journey, and make your journey fun and fast by connecting you to mentors and peers who are pursuing a similar path. Data scientists have become a critical component of businesses today and will soon be the backbone of almost every major corporation. However, there are not enough skilled data scientists to meet the growing demand.
+Welcome to [Data Science Residency](http://datascienceresidency.com/), where your journey in data science begins! We are here to accompany you in every step of your career and make your job search fun and fast. Here are a few of the ways we can help:
+ 
+·   	Matching you with companies looking for your expertise
+·   	Connecting you with peers who are pursuing a similar path
+·   	Connecting you with mentors who can guide you
+·   	Continuous support for your learning and career development
+ 
+By joining Data Science Residency, you are automatically considered for many opportunities submitted to us for senior and junior data science roles, and internships with emerging and established companies in the field. Our matching is based on each company’s requirements, and your availability and expertise. You can be best matched with hiring companies if you fill your profile thoroughly and accurately.
+ 
+In addition to matching you to new opportunities, we offer continuous support for your learning and career development. Our biweekly newsletter is a great resource to keep updated with the latest resources and techniques in data science. We also give you the opportunity to contribute to our blog and get featured as a data scientist or aspiring data scientist.
+ 
+Join us now to get connected to the myriad opportunities that are waiting for you in data science!
 
 # Why join Data Science Residency?
 
