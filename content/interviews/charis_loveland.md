@@ -16,7 +16,7 @@ I’ve greatly enjoyed the freedom of choosing projects that appeal to my intere
 
 Q: You served as a product manager in your last corporate role. What does it mean to be a product manager to you, and what skills does it require? Do you also need any technical skills?
 
-To me, a product manager is an extension of and an advocate for the customer. A product manager need to be data-driven, collaborative, and possess solid business acumen. Knowledge of frameworks like agile and design thinking also helps. I think technical skills are critical for a product manager. It’s another tool in their toolkit. I’m investing in my technical education through some of the resources I mentioned in [my blog](https://charismama.blogspot.com/2018/12/how-do-you-get-into-artificial.html). [*Inspired*](https://www.goodreads.com/book/show/3323374-inspired) is my favorite book about product management.
+To me, a product manager is an extension of and an advocate for the customer. A product manager needs to be data-driven, collaborative, and possess solid business acumen. Knowledge of frameworks like agile and design thinking also helps. I think technical skills are critical for a product manager. It’s another tool in their toolkit. I’m investing in my technical education through some of the resources I mentioned in [my blog](https://charismama.blogspot.com/2018/12/how-do-you-get-into-artificial.html). [*Inspired*](https://www.goodreads.com/book/show/3323374-inspired) is my favorite book about product management.
 
 Q: As a product manager, do you also work with data, to derive insights and inform decisions?
 
