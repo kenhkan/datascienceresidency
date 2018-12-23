@@ -4,7 +4,7 @@ date: 2018-10-17T12:44:48-04:00
 classes: ["feature-nohdrtitle"]
 ---
 
-Welcome to [Data Science Residency](http://datascienceresidency.com/), where your journey in data science begins! We are here to accompany you in every step of your career and make your job search fun and fast. Here are a few of the ways we can help:
+Welcome to [Data Science Residency](https://datascienceresidency.com/), where your journey in data science begins! We are here to accompany you in every step of your career and make your job search fun and fast. Here are a few of the ways we can help:
  
 - Matching you with companies looking for your expertise
 - Connecting you with peers who are pursuing a similar path
